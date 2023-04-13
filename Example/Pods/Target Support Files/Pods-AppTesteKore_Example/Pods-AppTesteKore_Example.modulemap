@@ -1,0 +1,6 @@
+framework module Pods_AppTesteKore_Example {
+  umbrella header "Pods-AppTesteKore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

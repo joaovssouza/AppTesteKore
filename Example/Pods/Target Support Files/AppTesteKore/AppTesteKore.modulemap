@@ -1,0 +1,6 @@
+framework module AppTesteKore {
+  umbrella header "AppTesteKore-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - AppTesteKore (0.1.0)
+
+DEPENDENCIES:
+  - AppTesteKore (from `../`)
+
+EXTERNAL SOURCES:
+  AppTesteKore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppTesteKore: d43c14532d354a63eabe6ef88ef3a6125740d228
+
+PODFILE CHECKSUM: 9c548d32e6e4eba25f747362032da8fe097df34c
+
+COCOAPODS: 1.11.3
