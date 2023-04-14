@@ -44,7 +44,7 @@
 		3EDA47075E83E9CAFE2331B3BB351E8C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		408B9C47AA24422A7B7C294B75B8D555 /* Pods-AppTesteKore_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AppTesteKore_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		443AB61F4BF0F8D7E6382A41FF43F752 /* Pods-AppTesteKore_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppTesteKore_Example-Info.plist"; sourceTree = "<group>"; };
-		4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods-AppTesteKore_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-AppTesteKore_Tests"; path = Pods_AppTesteKore_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods_AppTesteKore_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AppTesteKore_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		57F3D839F6E7049D32A6482E54506689 /* Pods-AppTesteKore_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppTesteKore_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		674444A310F3F3395D8B0C21714E9F91 /* Pods-AppTesteKore_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AppTesteKore_Example-umbrella.h"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -54,14 +54,14 @@
 		85483DB15DDD69A84FB66ABBBBE0DBC2 /* AppTesteKore.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AppTesteKore.modulemap; sourceTree = "<group>"; };
 		8FC6AE3F7DEC285616A11791FF1CE9F1 /* Pods-AppTesteKore_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AppTesteKore_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		939917D314E384B764D937BB4E03DBD5 /* Pods-AppTesteKore_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AppTesteKore_Tests.modulemap"; sourceTree = "<group>"; };
-		98158C01383DC3BD872C76E9792F5927 /* Pods-AppTesteKore_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-AppTesteKore_Example"; path = Pods_AppTesteKore_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		98158C01383DC3BD872C76E9792F5927 /* Pods_AppTesteKore_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AppTesteKore_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9841C95FA1229FEA29A7B4FE54DA0ABD /* Pods-AppTesteKore_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AppTesteKore_Tests-dummy.m"; sourceTree = "<group>"; };
 		9AFE7D5EDA9D55D71BDA8FD4E1799F7E /* AppTesteKore-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AppTesteKore-prefix.pch"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A02D86972909C287587593D3CA300612 /* Pods-AppTesteKore_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppTesteKore_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A49CB11C237C10643A6EAAEE88B73362 /* Pods-AppTesteKore_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AppTesteKore_Example.modulemap"; sourceTree = "<group>"; };
 		ACC0D5D4F80D4B6B4F5BBF3B315314FA /* Pods-AppTesteKore_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AppTesteKore_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AppTesteKore; path = AppTesteKore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppTesteKore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B376A96AD11C017E5CE118ADD825F417 /* Pods-AppTesteKore_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AppTesteKore_Tests-umbrella.h"; sourceTree = "<group>"; };
 		B46C03F97FFD065CCFC87D7B5B49A1E7 /* AppTesteKore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppTesteKore.release.xcconfig; sourceTree = "<group>"; };
 		B5D202BD958EF9AA81628DFB42DBA008 /* AppTesteKore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppTesteKore.debug.xcconfig; sourceTree = "<group>"; };
@@ -120,9 +120,9 @@
 		28C82944B9799CA8FE2F91B9FB778364 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore */,
-				98158C01383DC3BD872C76E9792F5927 /* Pods-AppTesteKore_Example */,
-				4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods-AppTesteKore_Tests */,
+				ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore.framework */,
+				98158C01383DC3BD872C76E9792F5927 /* Pods_AppTesteKore_Example.framework */,
+				4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods_AppTesteKore_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-AppTesteKore_Example";
 			productName = Pods_AppTesteKore_Example;
-			productReference = 98158C01383DC3BD872C76E9792F5927 /* Pods-AppTesteKore_Example */;
+			productReference = 98158C01383DC3BD872C76E9792F5927 /* Pods_AppTesteKore_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		8D06C38929EEB924A11D99844BBA7D39 /* AppTesteKore */ = {
@@ -287,7 +287,7 @@
 			);
 			name = AppTesteKore;
 			productName = AppTesteKore;
-			productReference = ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore */;
+			productReference = ACD705FD2ACF3EECB87781DBDB3045F7 /* AppTesteKore.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C6341D2F9615AC98AD976BA79DBF57A0 /* Pods-AppTesteKore_Tests */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-AppTesteKore_Tests";
 			productName = Pods_AppTesteKore_Tests;
-			productReference = 4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods-AppTesteKore_Tests */;
+			productReference = 4AF08EBEE0C12884ABC91C9DFDB6D987 /* Pods_AppTesteKore_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -316,7 +316,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					8D06C38929EEB924A11D99844BBA7D39 = {
+						LastSwiftMigration = "";
+					};
+				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -422,7 +427,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-AppTesteKore_Tests/Pods-AppTesteKore_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AppTesteKore_Tests/Pods-AppTesteKore_Tests.modulemap";
@@ -456,7 +461,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-AppTesteKore_Example/Pods-AppTesteKore_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AppTesteKore_Example/Pods-AppTesteKore_Example.modulemap";
@@ -490,7 +495,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AppTesteKore/AppTesteKore-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AppTesteKore/AppTesteKore-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/AppTesteKore/AppTesteKore.modulemap";
 				PRODUCT_MODULE_NAME = AppTesteKore;
@@ -498,7 +503,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -541,6 +546,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -556,7 +562,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -583,7 +589,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AppTesteKore/AppTesteKore-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AppTesteKore/AppTesteKore-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/AppTesteKore/AppTesteKore.modulemap";
 				PRODUCT_MODULE_NAME = AppTesteKore;
@@ -591,7 +597,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -633,6 +639,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -651,7 +658,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -680,7 +687,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-AppTesteKore_Tests/Pods-AppTesteKore_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AppTesteKore_Tests/Pods-AppTesteKore_Tests.modulemap";
@@ -713,7 +720,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-AppTesteKore_Example/Pods-AppTesteKore_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AppTesteKore_Example/Pods-AppTesteKore_Example.modulemap";

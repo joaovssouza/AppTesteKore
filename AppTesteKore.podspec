@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/João Souza/AppTesteKore'
+  s.homepage         = 'https://github.com/joaovssouza/AppTesteKore'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'João Souza' => 'joao.souza@mobilus.com.br' }
-  s.source           = { :git => 'https://github.com/joaovssouza/AppTesteKore', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/joaovssouza/AppTesteKore.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'AppTesteKore/Classes/**/*'
   
